@@ -1,3 +1,4 @@
+# scripts/plot_trends.py
 import matplotlib.pyplot as plt
 import seaborn as sns
 
